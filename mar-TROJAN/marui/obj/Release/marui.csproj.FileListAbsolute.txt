@@ -1,0 +1,7 @@
+C:\Users\rocks\Downloads\mar-TROJAN\marui\bin\Release\marui.exe.config
+C:\Users\rocks\Downloads\mar-TROJAN\marui\bin\Release\marui.exe
+C:\Users\rocks\Downloads\mar-TROJAN\marui\bin\Release\marui.pdb
+C:\Users\rocks\Downloads\mar-TROJAN\marui\obj\Release\marui.csproj.AssemblyReference.cache
+C:\Users\rocks\Downloads\mar-TROJAN\marui\obj\Release\marui.csproj.CoreCompileInputs.cache
+C:\Users\rocks\Downloads\mar-TROJAN\marui\obj\Release\marui.exe
+C:\Users\rocks\Downloads\mar-TROJAN\marui\obj\Release\marui.pdb
